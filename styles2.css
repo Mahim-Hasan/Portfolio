@@ -1,0 +1,38 @@
+body{
+	background-color: white;
+}
+
+a{
+	background-color: yellow;
+	text-decoration: none;
+	padding: 20px;
+	border: solid black;
+	font-size: 20px;
+	border-radius: 30px 30px 30px 30px;
+}
+
+a:hover{
+	background-color: white;
+	color: red;
+}
+
+.form{
+	background-color: skyblue;
+	border: solid black;
+	padding: 0px 10px 10px 10px;
+}
+
+.sub input:hover{
+	background-color: blue;
+	color: white;
+}
+
+.form h2{
+	font-family: 'Comforter', cursive;
+	font-family: 'Lobster', cursive;
+	font-family: 'Oswald', sans-serif;
+	font-family: 'Quintessential', cursive;
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Yellowtail', cursive;
+	font-size: 40px;
+}

@@ -1,0 +1,229 @@
+body{
+	background-color: #F9E79F;
+}
+
+.header{
+	background-color: yellow;
+	border: solid red;
+	border-width: 5px 10px 5px 10px ;
+	text-align: center;
+	width: 60%;
+	margin: auto;
+}
+
+.header h1{
+	font-family: 'Oswald', sans-serif;
+	font-family: 'Quintessential', cursive;
+	font-family: 'Roboto', sans-serif;
+	font-size: 50px;
+}
+
+.margin{
+	background-color: #F9E79F;
+	margin: 10px 10px 10px 10px;
+}
+
+.margin .sub-head{
+	background-color: #F9E79F;
+	border: solid black;
+	text-align: center;
+	width: 20%;
+	margin: auto;
+	
+}
+
+.sub-head h2{
+	font-family: 'Quintessential', cursive;
+	font-size: 20px;
+}
+
+.mid{
+	width: 100%;
+	height: 600px;
+	background-color: #F9E79F;
+	border: solid black;
+}
+
+.mid .des{
+	background-color: white;
+	width: 50%;
+	border-right: solid black;
+	height: 600px;
+	float: left;
+}
+
+.mid .space{
+	background-color: #F9E79F;
+	width:20%;
+	height: 600px;
+	float: left;
+}
+
+.mid .photo{
+	background-color: coral;
+	width:29%;
+	height: 600px;
+	float: left;
+}
+
+.space2{
+	background-color: #F9E79F;
+	width: 50%;
+	height: 100px;
+}
+
+.mid .des h3{
+	font-size: 30px;
+}
+
+.mid .des h4{
+	font-family: 'Oswald', sans-serif;
+	font-family: 'Quintessential', cursive;
+	font-size: 20px;
+	text-align: justify;
+}
+
+.mid .des h5{
+	font-family: 'Oswald', sans-serif;
+	font-family: 'Quintessential', cursive;
+	font-size: 20px;
+	color: green;
+}
+
+
+.imgr{
+	width: 100%;
+	height: 100%;
+}
+
+
+table{
+	background-color: white;
+	margin: auto;
+}
+
+table, th, td{
+	border: solid black;
+	border-collapse: collapse;
+	padding: 10px;
+	text-align: center;
+}
+
+
+table th{
+	background-color:gray;
+	color: white;
+	font-size: 20px;
+}
+
+table td:hover{
+	background-color: lightgray;
+}
+
+table a{
+	text-decoration: none;
+}
+
+table a:visited{
+	color: green;
+}
+
+table a:hover{
+	color: red;
+}
+
+table a:active{
+	color: yellow;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	color: red;
+}
+
+.main{
+	background-color:blue;
+	width:100%;
+	height:500px;
+}
+
+.s{
+	width: 100%;
+	height: 20px;
+}
+
+.Cap .Skills{
+	background-color: pink;
+	width: 24%;
+	height: 290px;
+	border: solid black;
+	float: left;
+	padding: 10px 10px 10px 10px;
+}
+
+.Cap .Food{
+	background-color: coral;
+	width: 34%;
+	height: 290px;
+	border: solid black;
+	float: left;
+	padding: 10px 10px 10px 10px;
+}
+
+.Cap .Hobbies{
+	background-color: #FFFF66;
+	width: 36%;
+	height: 290px;
+	border: solid black;
+	float: left;
+	padding: 10px 10px 10px 10px;
+}
+
+.Cap2 .Res{
+	background-color: lightgray;
+	width: 24%;
+	height: 290px;
+	border: solid black;
+	float: left;
+	padding: 10px 10px 10px 10px;
+}
+
+.Cap2 .Ex{
+	background-color: lightgreen;
+	width: 34%;
+	height: 290px;
+	border: solid black;
+	float: left;
+	padding: 10px 10px 10px 10px;
+}
+
+.Cap2 .Sports{
+	background-color: skyblue;
+	width: 36%;
+	height: 290px;
+	border: solid black;
+	float: left;
+	padding: 10px 10px 10px 10px;
+}
+
+.Food ul{
+	list-style-type: circle;
+}
+
+.Cap {
+	width: 100%;
+	height: 290px;
+	/*
+	background-color: #F9E79F;
+	width: 100%;
+	margin: auto;
+	height: 50px;*/
+}
+
+.Cap2 {
+	width: 100%;
+	height: 290px;
+}
